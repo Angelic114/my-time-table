@@ -1,0 +1,17 @@
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    border-color: black;
+  }
+
+.blank{
+    background-color: rgb(235, 171, 171);
+}
+
+.info{
+    background-color: rgb(228, 66, 206);
+}
+
+.class{
+    background-color: rgb(12, 126, 233);
+}
